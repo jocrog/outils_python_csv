@@ -1,0 +1,3 @@
+- savescv -> enregistrement des donnees provenant de la liaison serie dans un fichier csv
+- plotcsv23 -> creation d'un graphe a partir des donnees d'un fichier csv
+- sendcsv -> envoi des donnees d'un fichier csv vers la liaison serie
